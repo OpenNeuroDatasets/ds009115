@@ -1,0 +1,15 @@
+{
+    "participant_id": {
+        "Description": "Unique participant identifier"
+    },
+    "included_in_analysis": {
+        "Description": "Included in the analyses",
+        "Levels": {
+            "yes": "included",
+            "no": "excluded"
+        }
+    },
+    "exclusion_reason": {
+        "Description": "Reason for exclusion from the analyses"
+    }
+}
