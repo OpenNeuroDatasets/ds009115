@@ -1,0 +1,34 @@
+{
+    "Name": "Neural correlates of prediction errors of perceived exertion: an fMRI dataset",
+    "BIDSVersion": "1.10.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "İrem Tuğçe Öz",
+        "Chris Baeken",
+        "Roxane Philips",
+        "James Madog Harris",
+        "Mathieu Petieau",
+        "Damien Brevers"
+    ],
+    "Funding": [
+        "Ghent University (D/01357/02)"
+    ],
+    "EthicsApprovals": [
+        "The study was approved by the ethics review board of Ghent University (ONZ-2025-0256)."
+    ],
+    "GeneratedBy": [
+        {
+            "Name": "dcm2niix",
+            "Description": "DICOM to NIfTI conversion"
+        },
+        {
+            "Name": "fsl_deface",
+            "Description": "Defacing of the T1-weighted images"
+        },
+        {
+            "Name": "Custom Python script",
+            "Description": "Organisation into BIDS and removal of identifying metadata"
+        }
+    ]
+}
