@@ -1,5 +1,0 @@
-{
-    "TaskName": "imagine",
-    "TaskDescription": "Mental simulation of running along city and forest trails shown as images (6 images of 5 s per block), with lower-than-expected (positive PEexert) or higher-than-expected (negative PEexert) physical exertion.",
-    "Instructions": "'Imagine running on the trail in the pictures in the near future and you experience a lesser [higher] level of physical effort than anticipated.' (positive [negative] PEexert). Given in English or French according to the participant's preference."
-}
