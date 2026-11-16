@@ -1,0 +1,28 @@
+{
+    "trial_type": {
+        "Description": "Type of event",
+        "Levels": {
+            "cue": "Block cue screen announcing the condition",
+            "cue_blank": "White screen after the cue",
+            "image": "Trail image shown while imagining running",
+            "image_blank": "White screen after an image"
+        }
+    },
+    "environment": {
+        "Description": "Environment shown in the block",
+        "Levels": {
+            "city": "City trail",
+            "forest": "Forest trail"
+        }
+    },
+    "peexert": {
+        "Description": "Prediction error of perceived exertion in the block",
+        "Levels": {
+            "positive": "Imagine lower effort than expected",
+            "negative": "Imagine higher effort than expected"
+        }
+    },
+    "image_name": {
+        "Description": "Name of the image file shown"
+    }
+}
