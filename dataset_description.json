@@ -30,5 +30,6 @@
             "Name": "Custom Python script",
             "Description": "Organisation into BIDS and removal of identifying metadata"
         }
-    ]
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds009115.v1.0.0"
 }
